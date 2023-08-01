@@ -9,4 +9,4 @@
 
 ## Notes:
 - For backend application's repo: https://github.com/SsTommyChensS/jung-talents-asignments-BE-ExpressJS
-- Run backend application the same with this frontend application
+- Run backend application at the same time with this frontend application
